@@ -1,5 +1,5 @@
 ![code](https://github.com/sonu-lodhi/sit-academy/blob/master/src/main/resources/static/images/code.png)
-![restful-apis](https://github.com/sonu-lodhi/sit-academy/blob/master/src/main/resources/static/images/code.png)
+![restful-apis](https://github.com/sonu-lodhi/sit-academy/blob/master/src/main/resources/static/images/restful-apis.png)
 
 # Sit Academy project for digital classes
 ### Core Java + Spring Boot + Swagger APIs + RESTful APIs + MySQL + Postman + AWS Cloud + JWT Authentication + Spring Security + Maven
